@@ -4,10 +4,10 @@ My name is **Balakumaran Kannan** and I'm a **Data Scientist**, from **India**.
 
 ## About me
 
-🐛 **Creating insights since 2022** - Nearly 2 years of experience transforming complex datasets into actionable business solutions  
+🐛 **Creating insights since 2022** - Nearly 3 years of experience transforming complex datasets into actionable business solutions  
 📚 **I'm currently learning** - Advanced Generative AI techniques, RAG (Retrieval-Augmented Generation), Agentic AI systems, MCP (Model Context Protocol), and LLM fine-tuning with models like Llama-2  
 🎯 **Goals** - Contributing to innovative ML/AI projects that drive measurable business impact and growth  
-🧠 **Fun fact** - I optimized telecom data workflows that reduced manual effort by 30% using Python automation!
+🧠 **Fun fact** - Love leveraging ML/AI techstacks that reduce manual effort and drive positive growth!
 
 ## I code with
 
@@ -25,7 +25,7 @@ My name is **Balakumaran Kannan** and I'm a **Data Scientist**, from **India**.
 
 - **Current Role**: Data Scientist at PamTen, working on music streaming analytics and royalty distribution systems
 - **Recent Projects**: Gen-AI SQL Query Predictor using fine-tuned Llama-2-7b with 30% improved accuracy
-- **Expertise**: Machine Learning, Deep Learning, NLP, Cloud Computing, and Business Intelligence
+- **Expertise**: Machine Learning, Deep Learning, NLP, Generative AI, and Business Intelligence
 
 ## 📊 Experience Highlights
 
