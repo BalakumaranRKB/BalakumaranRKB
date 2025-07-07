@@ -27,14 +27,6 @@ My name is **Balakumaran Kannan** and I'm a **Data Scientist**, from **India**.
 - **Recent Projects**: Gen-AI SQL Query Predictor using fine-tuned Llama-2-7b with 30% improved accuracy
 - **Expertise**: Machine Learning, Deep Learning, NLP, Generative AI, and Business Intelligence
 
-  
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-###
-
 
 ## 📊 Experience Highlights
 
