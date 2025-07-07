@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-My name is **Balakumaran Kannan** and I'm a **Data Scientist**, from **New Jersey**.
+My name is **Balakumaran Kannan** and I'm a **Data Scientist**, from **India**.
 
 ## About me
 
