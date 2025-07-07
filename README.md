@@ -36,7 +36,7 @@ My name is **Balakumaran Kannan** and I'm a **Data Scientist**, from **India**.
 
 ## 🎓 Education
 
-- **MS in Statistics** - Baruch College, Zicklin School of Business (GPA: 3.69)
+- **MS in Statistics** - Baruch College, Zicklin School of Business
 - **Bachelor of Engineering** - Visvesvaraya Technological University
 
 ## 📫 Let's Connect
