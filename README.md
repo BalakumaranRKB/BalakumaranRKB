@@ -1,13 +1,13 @@
 # Hey 👋 What's up?
 
-My name is **Balakumaran Kannan** and I'm a **Data Scientist**, from **India**.
+My name is **Balakumaran Kannan** and I'm a **Data Scientist**, from **New Jersey**.
 
 ## About me
 
-🐛 **Creating insights since 2022** - Nearly 3 years of experience transforming complex datasets into actionable business solutions  
-📚 **I'm currently learning** - Advanced Generative AI techniques and LLM fine-tuning with models like Llama-2  
+🐛 **Creating insights since 2022** - Nearly 2 years of experience transforming complex datasets into actionable business solutions  
+📚 **I'm currently learning** - Advanced Generative AI techniques, RAG (Retrieval-Augmented Generation), Agentic AI systems, MCP (Model Context Protocol), and LLM fine-tuning with models like Llama-2  
 🎯 **Goals** - Contributing to innovative ML/AI projects that drive measurable business impact and growth  
-🧠 **Fun fact** - Love exploring new AI/ML tech stacks that can be leveraged in a positive way to reduce manaul effort and drive growth!
+🧠 **Fun fact** - I optimized telecom data workflows that reduced manual effort by 30% using Python automation!
 
 ## I code with
 
@@ -15,7 +15,8 @@ My name is **Balakumaran Kannan** and I'm a **Data Scientist**, from **India**.
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
@@ -44,4 +45,3 @@ My name is **Balakumaran Kannan** and I'm a **Data Scientist**, from **India**.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balakumaran.kannan@baruchmail.cuny.edu)
 
 ---
-⚡ **Fun Stats**: Detected 2% of fake borrowers through anomaly detection | Achieved 0.84 AUC score in battery failure prediction | AWS Certified Cloud Practitioner
